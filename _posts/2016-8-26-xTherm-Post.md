@@ -3,8 +3,6 @@ layout: post
 title: XTherm - OSX CPU Temperature Monitor
 ---
 
-xTherm has arrived!
-
 [Sami Sahli][1] and I have released an open source OSX CPU
 temperature monitor. This is a minimal, unobtrusive, status-bar application that
 displays and optionally logs CPU temperature.
