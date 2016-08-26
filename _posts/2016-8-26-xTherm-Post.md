@@ -11,7 +11,12 @@ displays and optionally logs CPU temperature.
 
 ![xTherm][2]
 
+[Application Website][3]
+[GitHub][4]
+
 enjoy :)
 
 [1]:https://github.com/ssahli
-[2]:https://github.com/arc3x/xTherm/doc/menu.png?raw=true
+[2]:https://github.com/arc3x/xTherm/blob/master/doc/menu.png
+[3]:https://arc3x.github.io/xTherm
+[4]:https://github.com/arc3x/xTherm
