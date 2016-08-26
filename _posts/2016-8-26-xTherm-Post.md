@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XTherm - OSX CPU Temperature Monitor
+title: xTherm - OSX CPU Temperature Monitor
 ---
 
 [Sami Sahli][1] and I have released an open source OSX CPU
