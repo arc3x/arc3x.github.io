@@ -15,6 +15,6 @@ displays and optionally logs CPU temperature.
 enjoy :)
 
 [1]:https://github.com/ssahli
-[2]:https://github.com/arc3x/xTherm/blob/master/doc/menu.png
+[2]:https://raw.githubusercontent.com/arc3x/xTherm/master/doc/menu.png
 [3]:https://arc3x.github.io/xTherm
 [4]:https://github.com/arc3x/xTherm
