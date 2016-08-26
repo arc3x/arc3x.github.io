@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Matthew Slocum is a Portland area web designer and systems programmer who likes
+to blog about the challenges and solutions he encounters during obscure programming
+tasks.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[matthew.d.slocum@gmail.com](mailto:matthew.d.slocum@gmail.com)
