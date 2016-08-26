@@ -10,6 +10,7 @@ displays and optionally logs CPU temperature.
 ![xTherm][2]
 
 [Application Website][3]
+
 [GitHub][4]
 
 enjoy :)
