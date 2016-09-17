@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll / Liquid Get All Posts Without A Tag
+title: Jekyll / Liquid Get All Posts Without A Specific Tag
 ---
 
 This took me some piecing together and wasn't readily available on a google search.
